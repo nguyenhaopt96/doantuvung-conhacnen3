@@ -1,0 +1,6 @@
+{
+  "type": "node",
+  "installCommand": "npm install --no-audit --no-fund",
+  "buildCommand": "npm run build",
+  "startCommand": "npm start"
+}
